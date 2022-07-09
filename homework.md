@@ -13,7 +13,7 @@ pip install -r requirement.txt
 先
 https://pytorch.org/get-started/locally/
 
-![install cuda](install cuda.png)
+![install cuda](install_cuda.png)
 
 
 ---
