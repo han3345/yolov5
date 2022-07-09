@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>2610.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>speed_unlimited</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>661</xmin>
+            <ymin>427</ymin>
+            <xmax>714</xmax>
+            <ymax>489</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>pedestrian_crossing</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>486</xmin>
+            <ymin>549</ymin>
+            <xmax>644</xmax>
+            <ymax>571</ymax>
+        </bndbox>
+    </object>
+</annotation>

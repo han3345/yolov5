@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>3258.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>speed_limited</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>951</xmin>
+            <ymin>415</ymin>
+            <xmax>971</xmax>
+            <ymax>484</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>speed_unlimited</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>477</xmin>
+            <ymin>352</ymin>
+            <xmax>566</xmax>
+            <ymax>457</ymax>
+        </bndbox>
+    </object>
+</annotation>

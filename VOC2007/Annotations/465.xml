@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>465.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>speed_limited</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>429</xmin>
+            <ymin>420</ymin>
+            <xmax>480</xmax>
+            <ymax>479</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>yellow_back</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>726</xmin>
+            <ymin>300</ymin>
+            <xmax>784</xmax>
+            <ymax>436</ymax>
+        </bndbox>
+    </object>
+</annotation>
